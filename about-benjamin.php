@@ -1,4 +1,8 @@
 <!doctype.html>
+<style>
+	p {color:red; font-family garamond;}
+	head {color:yellow; font-family:Vivaldi;}
+</style>
 <head>This is about Benjamin.</head>
 <title>Well let's try this again.</title>
 <body>
@@ -17,7 +21,4 @@
 	</p>
 	<p>Oh and by the way I'm going to attempt to make this a giant eyesore just because I wound up pissing myself off.
 	</p>
-	<style>
-	{background color:#222222}
-	{p color:red}
 </body>
