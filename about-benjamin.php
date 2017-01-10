@@ -1,10 +1,9 @@
-<!doctype.html>
-<style>
-	p {color:red; font-family garamond;}
-	head {color:yellow; font-family:Vivaldi;}
-</style>
-<head>This is about Benjamin.</head>
-<title>Well let's try this again.</title>
+<!DOCTYPE html>
+<html>
+	<head>This is about Benjamin.</head>
+		<title>
+			#head Well let's try this again.</title>
+		<img src="images/FenrirMotorcyclePhoto.jpg">
 <body>
 	<p>So this one is going to be more or less boring, sorry. Long story shot my name is Benjamin Smith
 	or Smtih if you ask the people who work at CNM. So I am experiencing what is called "Capital Punishment"
@@ -22,3 +21,4 @@
 	<p>Oh and by the way I'm going to attempt to make this a giant eyesore just because I wound up pissing myself off.
 	</p>
 </body>
+</html>
